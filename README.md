@@ -1,5 +1,5 @@
 
-# AEGIS - Siemens PLC Interaction Toolkit
+# AEGIS - Attack and Exploit Generator on Industrial control Systems
 <p align="center">
   <img src="AEGIS_logo.png" alt="AEGIS Logo" width="150">
 </p>
